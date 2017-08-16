@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AppTest.java&apos; to &apos;AppTest.java&apos;&#x0D;&#x0A;- Original project: &apos;Jason&apos;&#x0D;&#x0A;- Destination element: &apos;AppTest.java&apos;&#x0D;&#x0A;- Original element: &apos;com.family.model.AppTest.java&apos;" description="Copy compilation unit" element1="/src\/test\/java&lt;com.family.model{AppTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500633062543" target="/son/src/test/java/com/family/model/AppTest.java" units="1" version="1.0"/>
+</session>

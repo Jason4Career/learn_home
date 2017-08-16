@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+D:\project\learn\designMode\.metadata\.plugins\org.eclipse.jdt.core
+2959049138.index
+63010284.index
+1235682555.index
+1381265273.index
+13386232.index
+2965978862.index
+595559042.index
+3705012161.index
+965437259.index
+1458349445.index
+3770898424.index
+823240614.index
+1938918104.index
+894463276.index
+1873409995.index
+4053553401.index
+2359005767.index
+508914169.index
+3271193799.index

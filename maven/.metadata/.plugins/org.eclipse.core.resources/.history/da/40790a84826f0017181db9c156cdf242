@@ -1,0 +1,17 @@
+package com.hello.redis.HelloRedis;
+
+import org.junit.Test;
+
+import redis.clients.jedis.Jedis;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+
+	@Test
+	public void helloRedis() {
+
+		Jedis jedis = new Jedis("127.0.0.1",6379);		
+	}
+}

@@ -1,0 +1,10 @@
+package com.family.model;
+
+public class HelloEclipse {
+	
+	public String say() {
+		System.out.println("I'm Father!");
+		return "I'm Father!";
+	}
+	
+}

@@ -1,0 +1,18 @@
+package test;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int a = 5;
+		int b = 4;
+		method(a, b);
+	}
+
+	public static void method(Integer a, Integer b) {
+		
+		a=500;
+		b=400;
+		System.out.println("a:"+a+",b:"+b);
+		
+	}
+}
